@@ -65,9 +65,9 @@ body {
 #myphoto {
 	float: right;
 	background: url("images/my-photo.jpg");
-	width: 192px;
+	width: 200px;
 	/* height: 240px; */
-	height: 192px;
+	height: 288px;
 	margin: 15px;
 	border-radius: 10px;
 	box-shadow: 5px 5px 10px grey;
